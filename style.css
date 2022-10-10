@@ -1,0 +1,30 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    min-width: 30%;
+    margin: 15px 10px 15px 30px;
+    text-align: center;
+    font-family: arial;
+    display: inline-block;
+    min-height: 450px;
+  }
+
+  button {
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgb(192, 58, 207);
+    text-align: center;
+    width: 70%;
+    font-size: 18px;
+  }
+
+h1 {
+    text-align: center;
+    color: rgb(60, 19, 99);
+    font-family: Marker Felt, fantasy;
+} 
+
+.image {
+    max-height: 200px;
+    padding-top: 25px;
+}
